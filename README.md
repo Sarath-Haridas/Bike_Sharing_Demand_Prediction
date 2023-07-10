@@ -1,4 +1,4 @@
-# Capstone_Project_2_Bike_sharing_demand_prediction
+# Bike_sharing_demand_prediction
 
  Seoul Bike Sharing Demand Prediction
 
